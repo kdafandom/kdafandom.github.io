@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin: 0px; padding:0px}
+.header{ background: black; height: 80px;}
+.header ul li{ display: inline;
+	;margin-right: 6%;
+	color:aliceblue;
+	float: right;
+	padding-top: 2%; font-size: 17px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"}
+.logo{ float:left;
+	margin-left: 5%;
+	width: 110px;
+	padding-top: 20px}
+.content1{background-image: url("bai thi/bg1.jpg");
+		height: 800px;
+		background-size: cover; background-position: center;
+		text-align: center;}
+.blades{padding-top:24%;
+	font-size:70px;color: white
+;	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+letter-spacing: 20px}
+.fandom{ padding-top:14%;
+	color: white;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 25px;
+	letter-spacing: 10px}
+
